@@ -5,22 +5,55 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Aug 2014 17:22:14 +0200</pubDate>
-    <lastBuildDate>Tue, 05 Aug 2014 17:22:14 +0200</lastBuildDate>
+    <pubDate>Fri, 10 Oct 2014 16:49:38 +0200</pubDate>
+    <lastBuildDate>Fri, 10 Oct 2014 16:49:38 +0200</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
-        <title>The desktop is not dying</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec ligula elementum, egestas lectus a, dapibus est. Nunc laoreet elit vitae mauris dignissim vulputate. Cras iaculis ligula convallis pretium vehicula. Fusce laoreet iaculis quam, ac varius mi viverra at. Aliquam eget massa a quam lacinia faucibus sed non risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis sit amet justo suscipit, fermentum orci id, scelerisque tellus. Praesent fermentum leo vitae porta mollis. Suspendisse potenti. Pellentesque placerat rhoncus viverra. Morbi id venenatis nisl. Maecenas eget libero felis. Ut nec rhoncus turpis, nec pulvinar ante. Donec egestas erat quis bibendum hendrerit.&lt;/p&gt;
+        <title>Owned vs open</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;My prediction is that, unless the leadership vacuum is filled, the Web is going to retreat back to its origins as a network of hyperlinked documents. The Web will be just another app that you use when you want to find some information, like Wikipedia, but it will no longer be your primary window. The Web will no longer be the place for social networks, games, forums, photo sharing, music players, video players, word processors, calendaring, or anything interactive. Newspapers and blogs will be replaced by Facebook and Twitter and you will access them only through native apps. HTTP will live on as the data backbone used by native applications, but it will no longer serve those applications through HTML. Freedom of information may be restricted to whatever our information overlords see fit to feature on their App Market Stores.
+- &lt;a href=&quot;http://joehewitt.com/2011/09/22/web-technologies-need-an-owner&quot;&gt;Joe Hewitt in Web Technologies Need an Owner (2011)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Maecenas in libero id sapien consequat varius. Fusce viverra metus a congue convallis. Curabitur ut libero mauris. Duis feugiat vel felis et vestibulum. Ut eu accumsan quam, nec ultricies justo. Vestibulum nec turpis nisi. Fusce condimentum suscipit arcu eget imperdiet. Sed in sapien non purus mollis fringilla. Aliquam mi purus, iaculis et risus non, sagittis tincidunt metus. Pellentesque eget leo eu nisi sagittis scelerisque eu at ipsum. Pellentesque sagittis nulla lacus, a posuere metus vehicula non. Aenean enim elit, aliquet id iaculis sed, dapibus ut mauris. Fusce non mauris luctus tellus dictum euismod. Aenean malesuada, ante mollis porta tempus, justo velit venenatis sapien, vestibulum porta magna eros sed ipsum. Ut faucibus pellentesque nisi sed dictum. Nullam et tortor pellentesque quam luctus aliquet ullamcorper at turpis.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 05 Aug 2014 17:49:58 +0200</pubDate>
-        <link>/desktop/2014/08/05/desktop-is-not-dying/</link>
-        <guid isPermaLink="true">/desktop/2014/08/05/desktop-is-not-dying/</guid>
+        <pubDate>Fri, 10 Oct 2014 18:46:00 +0200</pubDate>
+        <link>/open/source,/web/2014/10/10/Owned%20vs%20open/</link>
+        <guid isPermaLink="true">/open/source,/web/2014/10/10/Owned%20vs%20open/</guid>
         
         
-        <category>desktop</category>
+        <category>open</category>
+        
+        <category>source,</category>
+        
+        <category>web</category>
+        
+      </item>
+    
+      <item>
+        <title>A mobile centric world</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;When users greatly favor a new user experience over an old one (in this case the mobile application environment versus a browser based desktop environment), the implication is clear – we are in the middle of a critical platform transition. Platform transitions are rare, yet highly consequential. The first consumer-based transition was DOS to Windows in the late 1980s. Many fortunes were won and lost based on how well companies like Borland and Lotus executed this transition. Then came client-server, which also launched new winners at the expense of older incumbents. The next obvious transition was the rise of the browser in 1996, which transformed not only the software application market but also the print and media world. The browser-based Internet launched many new companies, several of which have achieved market capitalizations in the billions. Most interestingly, new company wealth (pure play Internet companies) far exceeds “transitioned wealth” (incumbent companies transitioning their model successfully to the new platform). TripAdvisor and Yelp rule the day, not Frommers and Zagat. Likewise Priceline and Expedia rule travel, not some travel company that existed pre-Internet. Google, Yahoo, Ebay, Facebook, and Twitter rule the Internet, not Microsoft.
+- &lt;a href=&quot;http://abovethecrowd.com/2013/07/17/transitioning-to-a-mobile-centric-world/&quot;&gt;Bill Gurley - Transitioning to a mobile centric world (2013)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The core concept of “search” is in transition. Search plays a completely different role on the desktop than it does on the smartphone. On the browser, nearly every activity starts with search. On the smartphone, apps replace search as a starting point.
+- &lt;a href=&quot;http://abovethecrowd.com/2013/07/17/transitioning-to-a-mobile-centric-world/&quot;&gt;Bill Gurley - Transitioning to a mobile centric world (2013)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Exactly my thoughts. Browsers are search-centric, mobile devices are app-centric. The question is if the mobile appstores should incorporate more search like features.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 10 Oct 2014 18:02:00 +0200</pubDate>
+        <link>/mobile,/search/2014/10/10/A%20mobile%20centric%20world/</link>
+        <guid isPermaLink="true">/mobile,/search/2014/10/10/A%20mobile%20centric%20world/</guid>
+        
+        
+        <category>mobile,</category>
+        
+        <category>search</category>
         
       </item>
     
