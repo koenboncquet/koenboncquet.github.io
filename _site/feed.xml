@@ -5,9 +5,25 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Oct 2014 16:55:23 +0200</pubDate>
-    <lastBuildDate>Fri, 10 Oct 2014 16:55:23 +0200</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2014 11:27:59 +0200</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2014 11:27:59 +0200</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Human interface objects</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Human interface objects that can be seen are quite familiar in graphic user interfaces. Objects that are perceived by another sense such as hearing or touch are less familiar or are not necessarily recognized by us as being objects. Ring tones are auditory objects, for example, but we tend to just think of them as ring tones, without assigning any higher-level category to them.
+- &lt;a href=&quot;http://asktog.com/atc/principles-of-interaction-design&quot;&gt;Bruce “Tog” Tognazzini in First principles of interaction design&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Interesting that something visual is more likely to be perceived as an object. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Oct 2014 13:25:09 +0200</pubDate>
+        <link>/2014/10/16/Human%20interface%20objects/</link>
+        <guid isPermaLink="true">/2014/10/16/Human%20interface%20objects/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Owned vs open</title>
