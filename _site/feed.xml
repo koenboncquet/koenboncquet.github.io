@@ -5,9 +5,25 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 16 Oct 2014 11:27:59 +0200</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2014 11:27:59 +0200</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2014 10:48:14 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2014 10:48:14 +0200</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Power to consumers</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Power has shifted from companies to consumers, and expectations have never been higher. Companies can’t get away with having crummy products, at least not for long. For example, bad product reviews trump clever marketing. Today, great products win.
+- &lt;a href=&quot;http://www.slideshare.net/ericschmidt76/how-google-works-final-1&quot;&gt;Eric Schmidt in How google works&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As a side note to this: a lot of people still buy cheap products that have a reasonable price-quality ratio.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Oct 2014 12:46:32 +0200</pubDate>
+        <link>/2014/10/20/power-to-consumers/</link>
+        <guid isPermaLink="true">/2014/10/20/power-to-consumers/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Human interface objects</title>
@@ -19,8 +35,8 @@
 &lt;p&gt;Interesting that something visual is more likely to be perceived as an object. &lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Oct 2014 13:25:09 +0200</pubDate>
-        <link>/2014/10/16/Human%20interface%20objects/</link>
-        <guid isPermaLink="true">/2014/10/16/Human%20interface%20objects/</guid>
+        <link>/2014/10/16/human-interface-objects/</link>
+        <guid isPermaLink="true">/2014/10/16/human-interface-objects/</guid>
         
         
       </item>
@@ -34,8 +50,8 @@
 
 </description>
         <pubDate>Fri, 10 Oct 2014 18:46:00 +0200</pubDate>
-        <link>/open/source,/web/2014/10/10/Owned%20vs%20open/</link>
-        <guid isPermaLink="true">/open/source,/web/2014/10/10/Owned%20vs%20open/</guid>
+        <link>/open/source,/web/2014/10/10/owned-vs-open/</link>
+        <guid isPermaLink="true">/open/source,/web/2014/10/10/owned-vs-open/</guid>
         
         
         <category>open</category>
@@ -63,8 +79,8 @@
 
 </description>
         <pubDate>Fri, 10 Oct 2014 18:02:00 +0200</pubDate>
-        <link>/mobile,/search/2014/10/10/A%20mobile%20centric%20world/</link>
-        <guid isPermaLink="true">/mobile,/search/2014/10/10/A%20mobile%20centric%20world/</guid>
+        <link>/mobile,/search/2014/10/10/a-mobile-centric-world/</link>
+        <guid isPermaLink="true">/mobile,/search/2014/10/10/a-mobile-centric-world/</guid>
         
         
         <category>mobile,</category>
