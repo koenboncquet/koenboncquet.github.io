@@ -5,9 +5,30 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 24 Oct 2014 14:10:56 +0200</pubDate>
-    <lastBuildDate>Fri, 24 Oct 2014 14:10:56 +0200</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2014 15:00:04 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2014 15:00:04 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Interaction Congruity</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;The brilliant work that Xerox Parc did with windows that could overlap and mice that could point and click was groundbreaking. It really helped people use computers. And part of the way it helped is that it had object relationships. Some people didn’t understand. I’m not even sure anybody understood why that was valuable. 
+The reason why the computer desktop works with overlapping windows representing documents is not because it looks like your physical desk, but because when you work on your physical desk, the same things happen. You put the important things on top. […] It’s an interaction congruity - a functional congruity. It happens to have a visual congruity as well, but that’s not the essential part. 
+- &lt;a href=&quot;http://www.theverge.com/2014/10/15/6982167/google-android-5-0-l-lollipop-announcement-release&quot;&gt;Mathias Duarte on Google’s new material design&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 28 Oct 2014 15:58:20 +0100</pubDate>
+        <link>/android,/user/interfaces/2014/10/28/interaction-Congruity/</link>
+        <guid isPermaLink="true">/android,/user/interfaces/2014/10/28/interaction-Congruity/</guid>
+        
+        
+        <category>android,</category>
+        
+        <category>user</category>
+        
+        <category>interfaces</category>
+        
+      </item>
     
       <item>
         <title>Two Europes or one Europe?</title>
