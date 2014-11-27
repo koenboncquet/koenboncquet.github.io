@@ -41,8 +41,7 @@ a:visited { color: #205caa; }
 /* Site header */
 
 .site-header {
-  border-top: 5px solid #333;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #28ab64;
   min-height: 56px;
   background-color: white;
 }
@@ -52,12 +51,22 @@ a:visited { color: #205caa; }
 .site-title:visited {
   display: block;
   color: #333;
-  font-size: 26px;
+  font-size: 36px;
+  width: 100%;
+  text-align: center;
   letter-spacing: -1px;
-  float: left;
   line-height: 56px;
   position: relative;
   z-index: 1;
+}
+
+.logo{
+  background-image: url('snake-logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 20px auto 20px auto;
+  width: 100px;
+  height: 100px;
 }
 
 .site-nav {
@@ -68,6 +77,7 @@ a:visited { color: #205caa; }
 .site-nav .menu-icon { display: none; }
 
 .site-nav .page-link {
+  display: none;
   margin-left: 20px;
   color: #727272;
   letter-spacing: -.5px;
@@ -198,6 +208,9 @@ a:visited { color: #205caa; }
 }
 
 .post-content h2 {
+  font-weight: bold;
+  color: #444;
+
   font-size: 32px;
   letter-spacing: -1.25px;
 }
