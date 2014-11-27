@@ -5,9 +5,25 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 27 Nov 2014 11:09:27 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Nov 2014 11:09:27 +0100</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2014 11:26:26 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2014 11:26:26 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Seven plus or minus two</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Limiting the number of menu tabs or the number of items in a dropdown list to the George Miller’s magic number 7 [1]  is a false constraint. Miller’s original theory argues that people can keep no more than 7 (plus or minus 2) items in their short-term memory. On a webpage, however, the information is visually present, people don’t have to memorize anything and therefore can easily manage broader choices.
+- &lt;a href=&quot;http://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven&quot;&gt;Myth #23: Choices should always be limited to 7+/-2 - UX Myths&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 27 Nov 2014 12:26:12 +0100</pubDate>
+        <link>/ux/2014/11/27/seven-plus-or-minus-two/</link>
+        <guid isPermaLink="true">/ux/2014/11/27/seven-plus-or-minus-two/</guid>
+        
+        
+        <category>ux</category>
+        
+      </item>
     
       <item>
         <title>Interaction Congruity</title>
