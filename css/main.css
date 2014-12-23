@@ -1,8 +1,9 @@
 /* Custom CSS */
 
 .post-content{
-  margin-top: 50px !important;
-  border-top: 1px dashed #ddd;
+  padding-bottom: 30px;
+  margin-bottom: 50px !important;
+  border-bottom: 1px dashed #ddd;
 }
 
 .post-link:hover{
