@@ -1,3 +1,31 @@
+/* Custom CSS */
+
+.post-content{
+  margin-top: 50px !important;
+  border-top: 1px dashed #ddd;
+}
+
+.post-link:hover{
+  text-decoration: none;
+  color: #777;
+}
+
+.post-header > h1{
+  font-weight: bold !important;
+  color: #444 !important;
+  font-size: 32px !important;
+  line-height: 34px !important;
+}
+
+.post-content h2{
+  line-height: 34px !important;
+}
+
+.site-title:hover{
+  text-decoration: none;
+}
+
+
 /* Base */
 /* ----------------------------------------------------------*/
 

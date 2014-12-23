@@ -6,7 +6,8 @@ categories: desktop
 ---
 
 > Back in 1984, explanations of the original Mac interface to users who had never seen a GUI before inevitably included an explanation of icons that went something like this: "This icon represents your file on disk." But to the surprise of many, users very quickly discarded any semblance of indirection. This icon *is* my file. My file is this icon. One is not a "representation of" or an "interface to" the other. Such relationships were foreign to most people, and constituted unnecessary mental baggage when there was a much more simple and direct connection to what they knew of reality.
-> - [John Siracusa in About the finder (2003)](http://arstechnica.com/apple/2003/04/finder/3/)
+
+[John Siracusa in About the finder (2003)](http://arstechnica.com/apple/2003/04/finder/3/)
 
 All software or hardware systems that incorporate this indirection will create confusion. Android for example still has this (apps vs shortcuts). The app icon should be the only entry point for the app. The android shortcuts can create confusing situations. For example, there can be two facebook icons on your homescreen, both shortcuts, and one icon in your app drawer.
 

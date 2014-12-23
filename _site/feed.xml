@@ -5,187 +5,227 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 27 Nov 2014 11:26:26 +0100</pubDate>
-    <lastBuildDate>Thu, 27 Nov 2014 11:26:26 +0100</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2014 16:56:23 +0100</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2014 16:56:23 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>The Unreasonable Effectiveness of Mathematics in the Natural Sciences</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Just as there are odors that dogs can smell and we cannot, as well as sounds that dogs can hear and we cannot, so too there are wavelengths of light we cannot see and flavors we cannot taste. Why then, given our brains wired the way they are, does the remark ‘Perhaps there are thoughts we cannot think,’ surprise you? Evolution, so far, may possibly have blocked us from being able to think in some directions; there could be unthinkable thoughts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dartmouth.edu/~matc/MathDrama/reading/Hamming.html&quot;&gt;The Unreasonable Effectiveness of Mathematics in the Natural Sciences&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Dec 2014 16:59:30 +0100</pubDate>
+        <link>/auto/2014/12/23/the-unreasonable-effectiveness-of-mathematics-in-the-natural-sciences/</link>
+        <guid isPermaLink="true">/auto/2014/12/23/the-unreasonable-effectiveness-of-mathematics-in-the-natural-sciences/</guid>
+        
+        
+        <category>auto</category>
+        
+      </item>
+    
+      <item>
+        <title>Daring Fireball: Yahoo&#39;s Decline</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;I would argue that Yahoo lost its way early. Yahoo was an amazing, awesome resource when it first appeared, as a directory to cool websites. Arguably, the  directory to cool websites. It was hard to find the good stuff on the early web, and Yahoo created a map. Their whole reason for being was to serve as a starting point that sent you elsewhere. Then came portals. The portal strategy was the opposite of the directory strategy — it was about keeping people on Yahoo’s site, instead of sending them elsewhere. It was lucrative for a while, but ran its course. And it turned out that the web quickly became too large, far too large, for a human-curated directory to map more than a fraction of it. The only way to index the web was algorithmically, as a search engine. And one search engine stood head and shoulders above all others: Google. Yahoo reportedly had an opportunity to buy Google in 2002 for $5 billion . Yahoo, under the leadership of CEO Terry Semel, declined. And that was the end of Yahoo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://daringfireball.net/2014/12/yahoo_decline&quot;&gt;Daring Fireball: Yahoo’s Decline&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Dec 2014 11:26:35 +0100</pubDate>
+        <link>/auto/2014/12/18/daring-fireball-yahoos-decline/</link>
+        <guid isPermaLink="true">/auto/2014/12/18/daring-fireball-yahoos-decline/</guid>
+        
+        
+        <category>auto</category>
+        
+      </item>
+    
+      <item>
+        <title>How You Know</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you’ve lost the source of. It works, but you don’t know why.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://paulgraham.com/know.html&quot;&gt;How You Know&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Dec 2014 12:14:48 +0100</pubDate>
+        <link>/auto/2014/12/16/how-you-know/</link>
+        <guid isPermaLink="true">/auto/2014/12/16/how-you-know/</guid>
+        
+        
+        <category>auto</category>
+        
+      </item>
+    
+      <item>
+        <title>Our quantum reality problem – Adrian Kent – Aeon</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;The best present ideas for addressing the quantum reality problem are at least as crude and problematic as Bohr’s model of the atom. Nature is far richer than our imaginations, and we will almost certainly need new experimental data to take our understanding of quantum reality further. If the past is any guide, it should be an extraordinarily interesting scientific journey.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://aeon.co/magazine/science/our-quantum-reality-problem/&quot;&gt;Our quantum reality problem – Adrian Kent – Aeon&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Dec 2014 12:44:15 +0100</pubDate>
+        <link>/auto/2014/12/08/our-quantum-reality-problem--adrian-kent--aeon/</link>
+        <guid isPermaLink="true">/auto/2014/12/08/our-quantum-reality-problem--adrian-kent--aeon/</guid>
+        
+        
+        <category>auto</category>
+        
+      </item>
+    
+      <item>
+        <title>Peering Into The Minds Of The 4.3 Billion Unconnected | TechCrunch</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;I can relate to this skepticism since I too was once on that side of the fence. It is tempting to presume that mobile devices and basic Internet services are plug-and-play; that they have perfectly optimized their user experiences and can successfully onboard anyone, any time, any day. But the reality is we live in a world where 4.3 billion people have never experienced the Internet. These are people who mostly can’t tell what the X at the top-right of the screen does, or what “sign up” means, or what a username and password are, or that cancel buttons are red or gray, or how a QWERTY keyboard works, or how to sign up for mobile data, or why should one even do it in the first place. All this represents a highly complex, multifaceted problem and the payoff of ultimately solving it will fundamentally change us as a species.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://techcrunch.com/2014/11/29/peering-into-the-minds-of-the-4-3-billion-unconnected/&quot;&gt;Peering Into The Minds Of The 4.3 Billion Unconnected - TechCrunch&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Dec 2014 10:17:20 +0100</pubDate>
+        <link>/auto/2014/12/08/peering-into-the-minds-of-the-4.3-billion-unconnected--techcrunch/</link>
+        <guid isPermaLink="true">/auto/2014/12/08/peering-into-the-minds-of-the-4.3-billion-unconnected--techcrunch/</guid>
+        
+        
+        <category>auto</category>
+        
+      </item>
+    
+      <item>
+        <title>How to hire a product manager - by Ken Norton</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Product management is a weird discipline full of oddballs and rejects that never quite fit in anywhere else. For my part, I loved the technical challenges of engineering but despised the coding. I liked solving problems, but I hated having other people tell me what to do. I wanted to be a part of the strategic decisions, I wanted to own  the product. Marketing appealed to my creativity, but I knew I’d dislike being too far away from the technology. Engineers respected me, but knew my heart was elsewhere and generally thought I was too ‘marketing-ish.’ People like me naturally gravitate to product management.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.kennethnorton.com/essays/productmanager.html&quot;&gt;How to hire a product manager - by Ken Norton&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Dec 2014 17:19:16 +0100</pubDate>
+        <link>/auto/2014/12/05/how-to-hire-a-product-manager-by-ken-norton/</link>
+        <guid isPermaLink="true">/auto/2014/12/05/how-to-hire-a-product-manager-by-ken-norton/</guid>
+        
+        
+        <category>auto</category>
+        
+      </item>
+    
+      <item>
+        <title>Demis Hassabis, Founder of DeepMind Technologies and Artificial-Intelligence Wunderkind at Google, Wants Machines to Think Like Us | MIT Technology Review</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;rtificial intelligence researchers have been tinkering with reinforcement learning for decades. But until DeepMind’s Atari demo, no one had built a system capable of learning anything nearly as complex as how to play a computer game, says Hassabis. One reason it was possible was a trick borrowed from his favorite area of the brain. Part of the Atari-playing software’s learning process involved replaying its past experiences over and over to try and extract the most accurate hints on what it should do in the future. “That’s something that we know the brain does,” says Hassabis. “When you go to sleep your hippocampus replays the memory of the day back to your cortex.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.technologyreview.com/news/532876/googles-intelligence-designer/&quot;&gt;Demis Hassabis, Founder of DeepMind Technologies and Artificial-Intelligence Wunderkind at Google, Wants Machines to Think Like Us - MIT Technology Review&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Dec 2014 16:06:06 +0100</pubDate>
+        <link>/auto/2014/12/04/demis-hassabis-founder-of-deepmind-technologies-and-artificial-intelligence-wunderkind-at-google-wants-machines-to-think-like-us--mit-technology-review/</link>
+        <guid isPermaLink="true">/auto/2014/12/04/demis-hassabis-founder-of-deepmind-technologies-and-artificial-intelligence-wunderkind-at-google-wants-machines-to-think-like-us--mit-technology-review/</guid>
+        
+        
+        <category>auto</category>
+        
+      </item>
+    
+      <item>
+        <title>New questions in mobile — Benedict Evans</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Part of the reason for Google to change what ‘Android’ means is control, but a deeper one is to change the smartphone interaction model. It’s always been obvious that apps were a structural problem for Google, since their content is hidden from search and more importantly unlinkable from search results, paid or not.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What we can see happening now are shifts in the layers of aggregation and discovery. We’ve gone from everything being bundled within the web browser, and then accessed through Google (itself a bundle) to app icons unbundling specific content from the web. At the same time apps bundle all the content from one site and make it impossible to link directly to a specific page. Hence we now have both deep linking, which lets you get into the silo, and rich actionable notifications unbundling pieces of content out of the silo. And we also have cards  floating around (delivered in many different ways) as another unbundling metaphor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Across all of this, and far more important, we are now well on our way to having some 3.5bn to 4bn people on earth with a smartphone - there are probably 2bn today, and close to 4bn people with a mobile phone (the number of duplicate SIMs makes the number of active connection closer to 6bn). This compares to around 1.6bn PCs, of which roughly half are consumer and half corporate. So there will be something like 5 times more smartphones than consumer PCs, and those devices are always with you and, with all their apps and sensors, are much more sophisticated than PCs ever were, seen as internet devices. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ben-evans.com/benedictevans/2014/11/20/time-for-new-questions-in-mobile&quot;&gt;New questions in mobile — Benedict Evans&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Dec 2014 10:14:15 +0100</pubDate>
+        <link>/auto/2014/12/04/new-questions-in-mobile--benedict-evans/</link>
+        <guid isPermaLink="true">/auto/2014/12/04/new-questions-in-mobile--benedict-evans/</guid>
+        
+        
+        <category>auto</category>
+        
+      </item>
     
       <item>
         <title>Seven plus or minus two</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;Limiting the number of menu tabs or the number of items in a dropdown list to the George Miller’s magic number 7 [1]  is a false constraint. Miller’s original theory argues that people can keep no more than 7 (plus or minus 2) items in their short-term memory. On a webpage, however, the information is visually present, people don’t have to memorize anything and therefore can easily manage broader choices.
-- &lt;a href=&quot;http://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven&quot;&gt;Myth #23: Choices should always be limited to 7+/-2 - UX Myths&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Limiting the number of menu tabs or the number of items in a dropdown list to the George Miller’s magic number 7 is a false constraint. Miller’s original theory argues that people can keep no more than 7 (plus or minus 2) items in their short-term memory. On a webpage, however, the information is visually present, people don’t have to memorize anything and therefore can easily manage broader choices.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven&quot;&gt;Seven plus or minus two&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Nov 2014 12:26:12 +0100</pubDate>
-        <link>/ux/2014/11/27/seven-plus-or-minus-two/</link>
-        <guid isPermaLink="true">/ux/2014/11/27/seven-plus-or-minus-two/</guid>
+        <pubDate>Mon, 24 Nov 2014 17:00:13 +0100</pubDate>
+        <link>/auto/2014/11/24/seven-plus-or-minus-two/</link>
+        <guid isPermaLink="true">/auto/2014/11/24/seven-plus-or-minus-two/</guid>
         
         
-        <category>ux</category>
+        <category>auto</category>
         
       </item>
     
       <item>
-        <title>Interaction Congruity</title>
+        <title>App-pocalypse Now</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;The brilliant work that Xerox Parc did with windows that could overlap and mice that could point and click was groundbreaking. It really helped people use computers. And part of the way it helped is that it had object relationships. Some people didn’t understand. I’m not even sure anybody understood why that was valuable. 
-The reason why the computer desktop works with overlapping windows representing documents is not because it looks like your physical desk, but because when you work on your physical desk, the same things happen. You put the important things on top. […] It’s an interaction congruity - a functional congruity. It happens to have a visual congruity as well, but that’s not the essential part. 
-- &lt;a href=&quot;http://www.theverge.com/2014/10/15/6982167/google-android-5-0-l-lollipop-announcement-release&quot;&gt;Mathias Duarte on Google’s new material design&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 28 Oct 2014 15:58:20 +0100</pubDate>
-        <link>/android,/user/interfaces/2014/10/28/interaction-congruity/</link>
-        <guid isPermaLink="true">/android,/user/interfaces/2014/10/28/interaction-congruity/</guid>
-        
-        
-        <category>android,</category>
-        
-        <category>user</category>
-        
-        <category>interfaces</category>
-        
-      </item>
-    
-      <item>
-        <title>Two Europes or one Europe?</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;We have a problem today of two Europes: a digital Europe and an analogue Europe. Of digital mind-sets and analogue mind-sets. These are two Europes that rarely talk to each other. Two Europes that hold back all of Europe because they are not in sync. There is a Europe that is full of energy and digital ideas. We have a growing start-up scene with thousands of people who are the smartest in the world at what they do. From Skype to Spotify to SAP, from Rovio to Booking.com to Campus Party. We have a young generation that uses their digital devices and apps and new ways of building communities and businesses. This Europe is optimistic. This is the Europe where half of new jobs come from the ICT-enabled jobs. This Europe is mobile and flexible. This Europe hates barriers and looks for new opportunities. This is the Europe that likes innovation – and is happy to use Uber and Air BnB.
-- &lt;a href=&quot;http://europa.eu/rapid/press-release_SPEECH-14-710_en.htm&quot;&gt;Two Europes or One Europe?&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;Unless you’re careful to build equivalent apps in all those places, it’s like having multiple parallel Internets. ‘No, sorry, it’s not available on that Internet, only the iOS phone Internet.’ Or even worse, only on the United States iOS phone Internet.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;If we’re not open to disruptive business models and if we keep charging people for surfing/calling from another European country, it will be hard to get rid of the analogue Europe. On a positive note, a law to get rid of roaming costs is &lt;a href=&quot;http://www.bbc.com/news/world-europe-26866966&quot;&gt;on it’s way&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 24 Oct 2014 15:52:09 +0200</pubDate>
-        <link>/europe/politics/2014/10/24/two-europes-or-one-europe/</link>
-        <guid isPermaLink="true">/europe/politics/2014/10/24/two-europes-or-one-europe/</guid>
-        
-        
-        <category>europe</category>
-        
-        <category>politics</category>
-        
-      </item>
-    
-      <item>
-        <title>Easy money in gaming</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;The easy money in gaming isn’t actually to bankroll a $200 million console blockbuster, half of which is probably marketing. Rather, it’s to put a carefully tuned slot machine under the noses of as many people as possible, like say, a free-to-play smartphone game. 
-- &lt;a href=&quot;http://acko.net/blog/the-cargo-cult-of-game-mechanics/&quot;&gt;Steven Wittens in The Cargo Cult of Game Mechanics&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
 
-&lt;p&gt;Anybody who has played a game by King (e.g. Candy crush saga) will recognize this. Although you’ll find such games under the puzzle category, they really aren’t puzzle games at all.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Oct 2014 17:37:17 +0200</pubDate>
-        <link>/games/mobile/2014/10/23/easy-money-in-gaming/</link>
-        <guid isPermaLink="true">/games/mobile/2014/10/23/easy-money-in-gaming/</guid>
-        
-        
-        <category>games</category>
-        
-        <category>mobile</category>
-        
-      </item>
-    
-      <item>
-        <title>A sense of indirection</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Back in 1984, explanations of the original Mac interface to users who had never seen a GUI before inevitably included an explanation of icons that went something like this: “This icon represents your file on disk.” But to the surprise of many, users very quickly discarded any semblance of indirection. This icon &lt;em&gt;is&lt;/em&gt; my file. My file is this icon. One is not a “representation of” or an “interface to” the other. Such relationships were foreign to most people, and constituted unnecessary mental baggage when there was a much more simple and direct connection to what they knew of reality.
-- &lt;a href=&quot;http://arstechnica.com/apple/2003/04/finder/3/&quot;&gt;John Siracusa in About the finder (2003)&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;All software or hardware systems that incorporate this indirection will create confusion. Android for example still has this (apps vs shortcuts). The app icon should be the only entry point for the app. The android shortcuts can create confusing situations. For example, there can be two facebook icons on your homescreen, both shortcuts, and one icon in your app drawer.&lt;/p&gt;
-
-&lt;p&gt;So generally speaking, the problem occurs when users have to create a mental model that is more complex or less familiar. &lt;/p&gt;
-
-&lt;p&gt;I think this same argumentation can be used in touch screen vs mouse computing. When you use your mouse to move the on-screen cursor, you have to do a mental mapping to understand that moving the object on your desk results in the cursor moving on your screen. For most of us this is super obvious, but I have actually seen people having trouble performing this mental mapping. Look at it this way: a toddler is able to interact with an tablet from the moment his motor skills will allow him. I’m not sure the same counts for mouse interaction; directly touching the thing you want is just more intuitive.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 21 Oct 2014 17:49:58 +0200</pubDate>
-        <link>/desktop/2014/10/21/a%20sense%20of%20indirection/</link>
-        <guid isPermaLink="true">/desktop/2014/10/21/a%20sense%20of%20indirection/</guid>
-        
-        
-        <category>desktop</category>
-        
-      </item>
-    
-      <item>
-        <title>Power to consumers</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Power has shifted from companies to consumers, and expectations have never been higher. Companies can’t get away with having crummy products, at least not for long. For example, bad product reviews trump clever marketing. Today, great products win.
-- &lt;a href=&quot;http://www.slideshare.net/ericschmidt76/how-google-works-final-1&quot;&gt;Eric Schmidt in How google works&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As a side note to this: a lot of people still buy cheap products that have a reasonable price-quality ratio.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 Oct 2014 12:46:32 +0200</pubDate>
-        <link>/2014/10/20/power-to-consumers/</link>
-        <guid isPermaLink="true">/2014/10/20/power-to-consumers/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Human interface objects</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Human interface objects that can be seen are quite familiar in graphic user interfaces. Objects that are perceived by another sense such as hearing or touch are less familiar or are not necessarily recognized by us as being objects. Ring tones are auditory objects, for example, but we tend to just think of them as ring tones, without assigning any higher-level category to them.
-- &lt;a href=&quot;http://asktog.com/atc/principles-of-interaction-design&quot;&gt;Bruce “Tog” Tognazzini in First principles of interaction design&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Interesting that something visual is more likely to be perceived as an object. &lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Oct 2014 13:25:09 +0200</pubDate>
-        <link>/2014/10/16/human-interface-objects/</link>
-        <guid isPermaLink="true">/2014/10/16/human-interface-objects/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Owned vs open</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;My prediction is that, unless the leadership vacuum is filled, the Web is going to retreat back to its origins as a network of hyperlinked documents. The Web will be just another app that you use when you want to find some information, like Wikipedia, but it will no longer be your primary window. The Web will no longer be the place for social networks, games, forums, photo sharing, music players, video players, word processors, calendaring, or anything interactive. Newspapers and blogs will be replaced by Facebook and Twitter and you will access them only through native apps. HTTP will live on as the data backbone used by native applications, but it will no longer serve those applications through HTML. Freedom of information may be restricted to whatever our information overlords see fit to feature on their App Market Stores.
-- &lt;a href=&quot;http://joehewitt.com/2011/09/22/web-technologies-need-an-owner&quot;&gt;Joe Hewitt in Web Technologies Need an Owner (2011)&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-</description>
-        <pubDate>Fri, 10 Oct 2014 18:46:00 +0200</pubDate>
-        <link>/open/source,/web/2014/10/10/owned-vs-open/</link>
-        <guid isPermaLink="true">/open/source,/web/2014/10/10/owned-vs-open/</guid>
-        
-        
-        <category>open</category>
-        
-        <category>source,</category>
-        
-        <category>web</category>
-        
-      </item>
-    
-      <item>
-        <title>A mobile centric world</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;When users greatly favor a new user experience over an old one (in this case the mobile application environment versus a browser based desktop environment), the implication is clear – we are in the middle of a critical platform transition. Platform transitions are rare, yet highly consequential. The first consumer-based transition was DOS to Windows in the late 1980s. Many fortunes were won and lost based on how well companies like Borland and Lotus executed this transition. Then came client-server, which also launched new winners at the expense of older incumbents. The next obvious transition was the rise of the browser in 1996, which transformed not only the software application market but also the print and media world. The browser-based Internet launched many new companies, several of which have achieved market capitalizations in the billions. Most interestingly, new company wealth (pure play Internet companies) far exceeds “transitioned wealth” (incumbent companies transitioning their model successfully to the new platform). TripAdvisor and Yelp rule the day, not Frommers and Zagat. Likewise Priceline and Expedia rule travel, not some travel company that existed pre-Internet. Google, Yahoo, Ebay, Facebook, and Twitter rule the Internet, not Microsoft.
-- &lt;a href=&quot;http://abovethecrowd.com/2013/07/17/transitioning-to-a-mobile-centric-world/&quot;&gt;Bill Gurley - Transitioning to a mobile centric world (2013)&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;!-- --&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;The core concept of “search” is in transition. Search plays a completely different role on the desktop than it does on the smartphone. On the browser, nearly every activity starts with search. On the smartphone, apps replace search as a starting point.
-- &lt;a href=&quot;http://abovethecrowd.com/2013/07/17/transitioning-to-a-mobile-centric-world/&quot;&gt;Bill Gurley - Transitioning to a mobile centric world (2013)&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;natural web conveniences like opening links in new tabs, sharing links, the back button, searching within the page, and zooming in and out are available inconsistently, if at all.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Exactly my thoughts. Browsers are search-centric, mobile devices are app-centric. The question is if the mobile appstores should incorporate more search like features.&lt;/p&gt;
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;If there’s one thing I love about tablet and phone design it’s that their small screens and touch interfaces force people to think simpler&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m waiting for something that will unify the world of apps and make manually going to an App Store to find a new app as weird as typing in a URL to find a new website.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;!-- --&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.codinghorror.com/app-pocalypse-now/&quot;&gt;App-pocalypse Now&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Oct 2014 18:02:00 +0200</pubDate>
-        <link>/mobile,/search/2014/10/10/a-mobile-centric-world/</link>
-        <guid isPermaLink="true">/mobile,/search/2014/10/10/a-mobile-centric-world/</guid>
+        <pubDate>Mon, 17 Nov 2014 10:33:13 +0100</pubDate>
+        <link>/auto/2014/11/17/app-pocalypse-now/</link>
+        <guid isPermaLink="true">/auto/2014/11/17/app-pocalypse-now/</guid>
         
         
-        <category>mobile,</category>
-        
-        <category>search</category>
+        <category>auto</category>
         
       </item>
     
